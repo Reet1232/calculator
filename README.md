@@ -26,9 +26,9 @@ Calcify is licensed under the MIT License. See the [LICENSE](LICENSE) file for m
 
 ## Acknowledgements
 
-- Calcify's design and functionality were developed by [Your name]Shubhodeep.
+- Calcify's design and functionality were developed by [my name](Shubhodeep).
 - The CSS styling was inspired by window's native ui.
-- Special thanks to [Name]ansh for their valuable feedback and contributions.
+- Special thanks to [Name](ansh) for their valuable feedback and contributions.
 
 ## Contact
 
